@@ -1,6 +1,6 @@
 <div class="contect">
 <a href="https://velog.io/@heypop" target="_blank"><img src="https://img.shields.io/badge/Blog-09B3AF?style=flat&logo=vectorlogozone&logoColor=white"/></a>
-<a href="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/jihyeon4956@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/hey@herenas.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 </div>
 
 
